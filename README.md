@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sunzcs
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning coding
